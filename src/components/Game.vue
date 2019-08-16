@@ -93,7 +93,8 @@ export default {
       _this.tiles.total.push(i)
     }
 
-    for (let i = 0; i < 20; i++) {
+    // for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 10; i++) {
       _this.questions.total.push(i)
     }
   }
@@ -111,7 +112,7 @@ export default {
   background-color: white;
 }
 
-.panel._1 { background-image: url(../assets/img/question/1.png) }
+/* .panel._1 { background-image: url(../assets/img/question/1.png) }
 .panel._2 { background-image: url(../assets/img/question/2.png) }
 .panel._3 { background-image: url(../assets/img/question/3.png) }
 .panel._4 { background-image: url(../assets/img/question/4.png) }
@@ -130,7 +131,18 @@ export default {
 .panel._17 { background-image: url(../assets/img/question/17.png) }
 .panel._18 { background-image: url(../assets/img/question/18.png) }
 .panel._19 { background-image: url(../assets/img/question/19.png) }
-.panel._20 { background-image: url(../assets/img/question/20.png) }
+.panel._20 { background-image: url(../assets/img/question/20.png) } */
+
+.panel._1 { background-image: url(../assets/img/question/21.png) }
+.panel._2 { background-image: url(../assets/img/question/22.png) }
+.panel._3 { background-image: url(../assets/img/question/23.png) }
+.panel._4 { background-image: url(../assets/img/question/24.png) }
+.panel._5 { background-image: url(../assets/img/question/25.png) }
+.panel._6 { background-image: url(../assets/img/question/26.png) }
+.panel._7 { background-image: url(../assets/img/question/27.png) }
+.panel._8 { background-image: url(../assets/img/question/28.png) }
+.panel._9 { background-image: url(../assets/img/question/29.png) }
+.panel._10 { background-image: url(../assets/img/question/30.png) }
 
 .tiles {
   position: absolute;
