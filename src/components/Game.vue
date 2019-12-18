@@ -121,16 +121,6 @@ export default {
 .panel._8 { background-image: url(../assets/img/question/8.png) }
 .panel._9 { background-image: url(../assets/img/question/9.png) }
 .panel._10 { background-image: url(../assets/img/question/10.png) }
-/* .panel._11 { background-image: url(../assets/img/question/11.png) }
-.panel._12 { background-image: url(../assets/img/question/12.png) }
-.panel._13 { background-image: url(../assets/img/question/13.png) }
-.panel._14 { background-image: url(../assets/img/question/14.png) }
-.panel._15 { background-image: url(../assets/img/question/15.png) }
-.panel._16 { background-image: url(../assets/img/question/16.png) }
-.panel._17 { background-image: url(../assets/img/question/17.png) }
-.panel._18 { background-image: url(../assets/img/question/18.png) }
-.panel._19 { background-image: url(../assets/img/question/19.png) }
-.panel._20 { background-image: url(../assets/img/question/20.png) } */
 
 .tiles {
   position: absolute;
